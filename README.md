@@ -1,6 +1,6 @@
 # Car-Fuel-Cost-Prediction
 
-This a regression problem, where given various vehicle characteristics we predict the fuel cost at 12,000 miles.
+This is a regression problem, where given various vehicle characteristics we predict the fuel cost at 12,000 miles.
 
 ## Dataset
 
